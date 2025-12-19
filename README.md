@@ -1,0 +1,2 @@
+# Reviewmania
+MAL API demo
